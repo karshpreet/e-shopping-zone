@@ -1,0 +1,16 @@
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\controller\OrderController.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\dto\OrderDto.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\exception\GlobalExceptionHandler.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\exception\OrderProcessingException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\OrderServiceApplication.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\dto\ApiResponse.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\dto\CheckoutRequest.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\repository\OrderRepository.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\entity\Order.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\repository\OrderItemRepository.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\dto\OrderItemDto.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\exception\ResourceNotFoundException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\dto\UpdateOrderStatusRequest.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\entity\OrderItem.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\exception\BadRequestException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\order-service\src\main\java\com\eshopping\order\service\OrderService.java

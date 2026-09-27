@@ -1,0 +1,16 @@
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\dto\TopupRequest.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\service\WalletService.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\dto\DeductRequest.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\repository\WalletRepository.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\exception\ResourceNotFoundException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\entity\Wallet.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\dto\WalletDto.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\entity\WalletTransaction.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\exception\InsufficientBalanceException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\exception\BadRequestException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\exception\GlobalExceptionHandler.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\controller\WalletController.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\WalletServiceApplication.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\dto\ApiResponse.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\repository\WalletTransactionRepository.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\wallet-service\src\main\java\com\eshopping\wallet\dto\WalletTransactionDto.java

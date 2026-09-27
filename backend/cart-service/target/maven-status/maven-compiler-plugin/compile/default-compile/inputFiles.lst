@@ -1,0 +1,16 @@
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\dto\AddToCartRequest.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\dto\CartItemDto.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\dto\UpdateCartItemRequest.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\dto\CartDto.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\service\CartService.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\exception\GlobalExceptionHandler.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\repository\CartRepository.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\dto\ProductDto.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\entity\Cart.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\dto\ApiResponse.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\exception\BadRequestException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\exception\ResourceNotFoundException.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\repository\CartItemRepository.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\entity\CartItem.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\CartServiceApplication.java
+C:\Users\Asus\.gemini\antigravity\scratch\e-shopping-zone\backend\cart-service\src\main\java\com\eshopping\cart\controller\CartController.java

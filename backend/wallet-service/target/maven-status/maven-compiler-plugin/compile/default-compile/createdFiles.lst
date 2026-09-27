@@ -1,0 +1,16 @@
+com\eshopping\wallet\dto\TopupRequest.class
+com\eshopping\wallet\dto\WalletTransactionDto.class
+com\eshopping\wallet\repository\WalletTransactionRepository.class
+com\eshopping\wallet\dto\WalletDto.class
+com\eshopping\wallet\dto\ApiResponse.class
+com\eshopping\wallet\exception\ResourceNotFoundException.class
+com\eshopping\wallet\entity\Wallet.class
+com\eshopping\wallet\controller\WalletController.class
+com\eshopping\wallet\exception\GlobalExceptionHandler.class
+com\eshopping\wallet\repository\WalletRepository.class
+com\eshopping\wallet\exception\BadRequestException.class
+com\eshopping\wallet\service\WalletService.class
+com\eshopping\wallet\exception\InsufficientBalanceException.class
+com\eshopping\wallet\dto\DeductRequest.class
+com\eshopping\wallet\entity\WalletTransaction.class
+com\eshopping\wallet\WalletServiceApplication.class

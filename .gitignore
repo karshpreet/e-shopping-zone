@@ -1,0 +1,33 @@
+# Maven / Java
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+**/createdFiles.lst
+**/inputFiles.lst
+
+# Node / frontend
+**/node_modules/
+**/dist/
+**/build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
